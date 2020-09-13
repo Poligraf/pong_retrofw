@@ -1,3 +1,7 @@
+
+forked from
+
+https://github.com/flightcrank/pong/
 # PONG
 
 This is a recreation of the classic pong video game. Implemented in the C
